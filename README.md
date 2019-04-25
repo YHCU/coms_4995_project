@@ -47,6 +47,10 @@ G0 | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_0_g0.png
 G1 | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_0_g1.png) | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_1_g1.png)
 G2(Final) | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_0_g2.png) | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_1_g2.png)
 
+ Attention Node | a black table on top of white floor | a man riding a bicycle |
+:-------------------:|:------------------------------:|-----------------------:|
+Attn1 | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_0_a0.png) | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_1_a0.png)
+Attn2 | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_0_a1.png) | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_1_a1.png)
 **Reference**
 
 - [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks] [[code]] (https://github.com/taoxugit/AttnGAN)
