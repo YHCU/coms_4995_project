@@ -43,9 +43,9 @@ The `*.yml` files under `code/cfg/` are configuration files for training.
 ### Image Demonstration
  Network            | a black table on top of white floor | a man riding a bicycle |
 :-------------------------:|:-----------------------------------:|:----------------------:|
-G0 | ![](https://github.com/YHCU/coms_4995_project/tree/master/demo/0_s_0_g0.png) | ![](https://github.com/YHCU/coms_4995_project/tree/master/demo/0_s_1_g0.png)
-G1 | ![](https://github.com/YHCU/coms_4995_project/tree/master/demo/0_s_0_g1.png) | ![](https://github.com/YHCU/coms_4995_project/tree/master/demo/0_s_1_g1.png)
-G2(Final) | ![](https://github.com/YHCU/coms_4995_project/tree/master/demo/0_s_0_g2.png) | ![](https://github.com/YHCU/coms_4995_project/tree/master/demo/0_s_1_g2.png)
+G0 | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_0_g0.png) | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_1_g0.png)
+G1 | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_0_g1.png) | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_1_g1.png)
+G2(Final) | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_0_g2.png) | ![](https://github.com/YHCU/coms_4995_project/blob/master/demo/0_s_1_g2.png)
 
 **Reference**
 
